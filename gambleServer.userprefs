@@ -1,0 +1,18 @@
+﻿<Properties StartupItem="Server/Server.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Server/Program.cs">
+    <Files>
+      <File FileName="Server/Program.cs" Line="35" Column="34" />
+      <File FileName="dummyClient/Program.cs" Line="1" Column="1" />
+      <File FileName="Server/WebSocketEventListener.cs" Line="1" Column="1" />
+      <File FileName="Server/ClientWorking.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="/Users/ironJack/Projects/gambleServer/Server/Program.cs" line="85" column="17" />
+      <Breakpoint file="/Users/ironJack/Projects/gambleServer/Server/Program.cs" line="82" column="13" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

@@ -1,0 +1,9 @@
+/Users/ironJack/Projects/gambleServer/Server/obj/x86/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/Users/ironJack/Projects/gambleServer/Server/bin/Debug/Server.exe.mdb
+/Users/ironJack/Projects/gambleServer/Server/bin/Debug/Server.exe
+/Users/ironJack/Projects/gambleServer/Server/obj/x86/Debug/Server.exe
+/Users/ironJack/Projects/gambleServer/Server/obj/x86/Debug/Server.exe.mdb
+/Users/ironJack/Projects/gambleServer/Server/bin/Debug/System.Threading.Tasks.Dataflow.dll
+/Users/ironJack/Projects/gambleServer/Server/bin/Debug/vtortola.WebSockets.Deflate.dll
+/Users/ironJack/Projects/gambleServer/Server/bin/Debug/vtortola.WebSockets.dll
+/Users/ironJack/Projects/gambleServer/Server/bin/Debug/vtortola.WebSockets.Rfc6455.dll
