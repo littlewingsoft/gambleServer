@@ -10,7 +10,7 @@ namespace Server
 {
 	class MainClass
 	{
-		Dictionary<int, TcpClient> clients;
+		//Dictionary<int, TcpClient> clients;
 
 		public static void Main (string[] args){
 			int recv = 0;
