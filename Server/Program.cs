@@ -5,12 +5,13 @@ using System.Net;
 using System.Net.Sockets;
 using System.IO;
 using System.Collections.Generic;
+//using MySql.Data.MySqlClient;
 
 namespace Server
 {
 	class MainClass
 	{
-		Dictionary<int, TcpClient> clients;
+		//Dictionary<int, TcpClient> clients;
 
 		public static void Main (string[] args){
 			int recv = 0;
@@ -20,7 +21,7 @@ namespace Server
 			Socket server = new Socket(AddressFamily.InterNetwork, SocketType.Dgram, ProtocolType.Udp);
 			server.Bind(ep);
 
-			Console.WriteLine("Waiting for a client...");
+			Console.WriteLine("Waiting for a client... " + ep.ToString());
 
 			IPEndPoint sender = new IPEndPoint(IPAddress.Any, 0);
 			EndPoint remoteEP = (EndPoint)sender;
