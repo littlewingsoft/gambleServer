@@ -1,4 +1,4 @@
-﻿<Properties StartupItem="Server/Server.csproj">
+﻿<Properties StartupItem="Server\Server.csproj" GitUserInfo="UsingGIT">
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
   <MonoDevelop.Ide.Workbench ActiveDocument="Server/Program.cs">
     <Files>
