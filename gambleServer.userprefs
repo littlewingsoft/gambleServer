@@ -1,11 +1,10 @@
 ﻿<Properties StartupItem="Server\Server.csproj" GitUserInfo="UsingGIT">
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="Server/Program.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Server\source\lwsocket.cs">
     <Files>
-      <File FileName="Server/Program.cs" Line="35" Column="34" />
-      <File FileName="dummyClient/Program.cs" Line="1" Column="1" />
-      <File FileName="Server/WebSocketEventListener.cs" Line="1" Column="1" />
-      <File FileName="Server/ClientWorking.cs" Line="1" Column="1" />
+      <File FileName="Server\Program.cs" Line="6" Column="17" />
+      <File FileName="Server\source\interface_app.cs" Line="10" Column="3" />
+      <File FileName="Server\source\lwsocket.cs" Line="21" Column="4" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.Breakpoints>

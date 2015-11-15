@@ -12,8 +12,15 @@ namespace Server
 	class MainClass
 	{
 		//Dictionary<int, TcpClient> clients;
-
 		public static void Main (string[] args){
+			test_mongodb (args);
+		}
+
+		public static void test_mongodb (string[] args){
+			test_mongodb t = new Server.test_mongodb ();
+		}
+
+		public static void test_udp (string[] args){
 			int recv = 0;
 			byte[] data = new byte[1024];
 
